@@ -1,0 +1,7 @@
+Parameter,Spain,turkey,Serbia
+Baseline Default Rate (P⁰D),0.051,0.0252,0.032
+Disaster Frequency (q),0.3,0.29,0.26
+Damage Severity (â),0.1542,0.2062,0.0813
+Macroeconomic factor (y),1.397154502,0.2457693747,0.0004726869585
+Asset correlation (ρ),0.15,0.15,0.15
+Observed Post NPL (PᵒᵇˢD),0.052,0.0385,0.049
